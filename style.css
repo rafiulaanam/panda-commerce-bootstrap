@@ -1,0 +1,13 @@
+.header-bg{
+    background-color:#FEEAE9;
+}
+.hf-btn{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.btn-bg{
+    background-color: black;
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
